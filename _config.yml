@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "personal.jpg"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+
+  location         : "Building 55, Tianjin University (Peiyang Campus), Jinnan, Tianjin, P. R. China"
+  employer         : "Tianjin University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "solide@tju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
